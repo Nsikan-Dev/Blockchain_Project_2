@@ -3,10 +3,13 @@
 
 ### Submission
 Token Address: 0x1d14E01b68C9b12D4b8E94EF80fAdACf0611E4d0
+
 ERC-721 Token Name: NFT-STAR
+
 ERC-721 Token Symbol: NAS
 
 Truffle version: Truffle v5.4.8 (core: 5.4.8)
+
 Openzepelin version: 2.3.0 (2019-05-27)
 
 ### ToDo
